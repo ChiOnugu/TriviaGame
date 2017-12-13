@@ -1,8 +1,7 @@
 
 
 .jumbotron {
-  box-sizing: border-box;
-  height: 600px;
+  box-sizing: border-box; height: 600px;
   background-image: url("../images/Skyline.png"); 
   background-attachment: fixed; background-repeat: no-repeat; 
   background-size: cover;
@@ -60,12 +59,4 @@ background-color: blue;  padding: 10px; left: 0; right: 0;
   
    
 }
-
-
-
-
-
-
-
-
 
